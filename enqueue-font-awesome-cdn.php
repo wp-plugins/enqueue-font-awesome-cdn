@@ -36,8 +36,8 @@ function efac_load_fa_from_cdn() {
 	wp_enqueue_style(
 		efac_get_slug(),
 		'//maxcdn.bootstrapcdn.com/font-awesome/' . EFAC_FA_VERSION . '/css/font-awesome.min.css',
-		array(),
-		EFAC_FA_VERSION,
+		array(), 
+		EFAC_FA_VERSION, 
 		'all'
 	);
 }
