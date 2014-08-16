@@ -3,7 +3,7 @@
 Plugin Name: Enqueue Font Awesome CDN
 Plugin URI: http://www.jimmyscode.com/wordpress/enqueue-font-awesome-cdn/
 Description: Automatically enqueue <a href="http://fortawesome.github.io/Font-Awesome/">Font Awesome</a> from CDN
-Version: 0.0.1
+Version: 0.0.2
 Author: Jimmy Pe&ntilde;a
 Author URI: http://www.jimmyscode.com/
 License: GPLv2 or later

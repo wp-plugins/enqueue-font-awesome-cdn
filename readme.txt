@@ -18,6 +18,14 @@ Based on http://wpbacon.com/tutorials/font-awesome-wordpress-cdn/ and http://for
 
 Disclaimer: This plugin is not affiliated with or endorsed by the creators of Font Awesome.
 
+<h3>If you need help with this plugin</h3>
+
+If this plugin breaks your site or just flat out does not work, please go to <a href="http://wordpress.org/plugins/enqueue-font-awesome-cdn/#compatibility">Compatibility</a> and click "Broken" after verifying your WordPress version and the version of the plugin you are using.
+
+Then, create a thread in the <a href="http://wordpress.org/support/plugin/enqueue-font-awesome-cdn">Support</a> forum with a description of the issue. Make sure you are using the latest version of WordPress and the plugin before reporting issues, to be sure that the issue is with the current version and not with an older version where the issue may have already been fixed.
+
+<strong>Please do not use the <a href="http://wordpress.org/support/view/plugin-reviews/enqueue-font-awesome-cdn">Reviews</a> section to report issues or request new features.</strong>
+
 == Installation ==
 
 1. Upload plugin file through the WordPress interface.
@@ -44,10 +52,16 @@ I have no idea. Check their <a href="http://fortawesome.github.io/Font-Awesome/i
 
 == Changelog ==
 
+= 0.0.2 =
+- updated .pot file and readme
+
 = 0.0.1 =
 - created
 
 == Upgrade Notice ==
+
+= 0.0.2 =
+- updated .pot file and readme
 
 = 0.0.1 =
 - created
